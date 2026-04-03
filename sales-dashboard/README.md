@@ -1,27 +1,20 @@
-# Sales Dashboard Project
+# Sales Analysis Dashboard (Power BI)
 
-## 📊 Tools Used
+## 📊 Project Overview
+This project analyzes sales data to identify trends, top-performing products, and regional performance.
+
+## 🛠 Tools Used
 - Power BI
-- Excel
-- SQL
+- Excel (for data preprocessing)
 
-## 📁 Dataset
-Superstore Sales Dataset
+## 📈 Key Insights
+- Technology category generates highest sales
+- Sales peak during November and December
+- Central region contributes maximum profit
 
-## 📈 Dashboard Features
-- Total Sales KPI
-- Total Profit KPI
-- Sales by Category
-- Profit by Region
-- Monthly Sales Trend
-- Top 5 Products
+## 📷 Dashboard Preview
+(Add your screenshot here)
 
-## 🔍 Key Insights
-- Total sales reached 2.94M with around 10K orders
-- Technology category generated the highest revenue (~1.1M)
-- Central region contributed the highest profit (~57%)
-- Sales peak observed in July and December
-- Nokia Smartphone is one of the top-performing products
-
-## 🎯 Objective
-To analyze sales performance and identify business trends.
+## 📁 Files Included
+- PowerBI Dashboard (.pbix)
+- Dataset
